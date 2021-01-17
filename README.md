@@ -3,14 +3,18 @@ Project from work.
 ## transfer learning
 hands-on experience with deep learning frameworks (PyTorch, TensorFlow, …) 
 
+[Image Classification-resnet18](https://github.com/isabellechiu/Project_2020/blob/main/wih_Defect_Type.ipynb)
+
 ## Tensorflow input pipelines
  create MariaDB
+ [Create MariaDB by MySQL](https://github.com/isabellechiu/Project_2020/blob/main/P1%26P3_SMT_isa.ipynb)
  
  view image by SQLite
+ [sqlite3.connect](https://github.com/isabellechiu/Project_2020/blob/main/view_img_isa.ipynb)
  
- structure TFRecord
- 
- Neural Structured Learning
+ structure TFRecord+Neural Structured Learning
+ [create TFRecords to train TensorFlow models+neural_structured_learning](https://github.com/isabellechiu/Project_2020/blob/main/label_adversarial_isa.ipynb)
+
  
 # Git Skills
 ## How to Setup Passwordless SSH Login.
